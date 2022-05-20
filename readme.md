@@ -3,7 +3,7 @@ Building the habit of learning in public. Also I realized that ~~there's no easy
 
 ## Mini Challenges
 - [x] 3 Day Streak – *April 13, 2022*
-- [ ] 5 Day Streak
+- [x] 5 Day Streak - *May 19, 2022*
 - [ ] 7 Day Streak
 - [ ] 14 Day Streak
 - [ ] 30 Day Streak
