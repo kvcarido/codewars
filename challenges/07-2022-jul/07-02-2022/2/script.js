@@ -7,8 +7,6 @@ const accum = s => {
     let ans = []
 
     arr.forEach((letter, index) => {
-        // let counter = index + 1
-        // ans.push(letter.repeat(counter))
         ans.push(letter.toUpperCase() + letter.toLowerCase().repeat(index))
     })
 
