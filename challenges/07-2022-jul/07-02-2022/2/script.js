@@ -7,21 +7,14 @@ const accum = s => {
     let ans = []
 
     arr.forEach((letter, index) => {
-        let counter = index + 1
-        ans.push(letter.repeat(counter))
+        // let counter = index + 1
+        // ans.push(letter.repeat(counter))
+        ans.push(letter.toUpperCase() + letter.toLowerCase().repeat(index))
     })
-
-    /**************************************/
-    /* COME BACK AND FIGURE THIS PART OUT */
-    /**************************************/
-    for (let letters of ans) {
-        letters.charAt(0).toUpperCase()
-    }
 
     return ans.join('-')
 }
 
 // Tests
 console.log(accum("ABCDE")) // "A-Bb-Ccc-Dddd-Eeeee"
-// console.log(accum("ZpglnRxqenU")) // "Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu"
-// console.log(accum()) // 
+console.log(accum("ZpglnRxqenU")) // "Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu"
