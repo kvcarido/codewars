@@ -11,3 +11,5 @@ Building the habit of learning in public. Also I realized that ~~there's no easy
 - [x] First 7 Kyu completed – *April 25, 2022*
 - [x] First 6 Kyu completed – *July 8, 2022*
 - [ ] First 5 Kyu completed
+- [ ] First 4 Kyu completed
+- [ ] First 3 Kyu completed
