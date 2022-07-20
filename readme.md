@@ -7,7 +7,7 @@ Building the habit of learning in public. Also I realized that ~~there's no easy
 - [x] 7 Day Streak – *May 21, 2022*
 - [ ] 14 Day Streak
 - [ ] 30 Day Streak
-- [ ] 3 challenges in one day
+- [x] 3 challenges in one day – _July 15, 2022 (8kyu sparring)_
 - [x] First 7 Kyu completed – *April 25, 2022*
 - [x] First 6 Kyu completed – *July 8, 2022*
 - [ ] First 5 Kyu completed
